@@ -1,0 +1,14 @@
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToeForPractice.csprojAssemblyReference.cache
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToeForPractice.StartWindow.resources
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToeForPractice.csproj.GenerateResource.cache
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToeForPractice.csproj.CoreCompileInputs.cache
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToe.application
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\almet\source\repos\TrainingPractice_02\TicTacToe\obj\Debug\TicTacToe.pdb
